@@ -1,0 +1,137 @@
+Project Name:
+“Ruiii, Just Say Yes 💘”
+
+⸻
+
+Overall Feel
+	•	Pink. Roses. Hearts. No shame.
+	•	Playful teasing, romantic confidence, zero hesitation.
+	•	Feels like me talking directly to her, not an app.
+	•	Cute + bold + emotionally sure.
+
+⸻
+
+Opening Screen
+
+Soft pink gradient background. Floating hearts already moving slowly.
+
+Text appears line by line (typewriter effect):
+
+“Ruiiiiii…
+okay listen.”
+
+Small pause.
+
+“I made this because asking normally
+felt illegal.”
+
+Button appears: “Okay I’m listening 👀”
+
+⸻
+
+Main Question Screen
+
+Big centered card, rounded corners, subtle glow.
+
+Text (large, soft handwritten font):
+
+“Will you be my Valentine? 💘”
+
+Below:
+	•	YES 💗
+	•	NO 🙄
+
+⸻
+
+NO Button Chaos Mode (This is where we GO ALL OUT)
+
+Every time she taps NO, it:
+	•	Slides away playfully
+	•	Rotates slightly
+	•	Sometimes shrinks, sometimes jumps
+	•	Never disappears completely — just becomes annoying
+
+Each attempt triggers your style messages (one at a time, above the question):
+	1.	“Nice try.”
+	2.	“That was cute. Try again.”
+	3.	“Be serious for one second.”
+	4.	“You don’t mean that and we both know it.”
+	5.	“Ruiii stop lying to yourself 😭”
+	6.	“Why are you like this.”
+	7.	“Okay now you’re just playing hard to get.”
+	8.	“This app is literally built against NO.”
+	9.	“At this point, NO is embarrassing itself.”
+	10.	“Just say yes before I add fireworks.”
+
+Messages are short, teasing, confident, very you.
+
+⸻
+
+YES Button Evolution
+	•	Gets bigger with every NO attempt
+	•	Starts glowing more
+	•	Hearts start orbiting it
+	•	Slight bounce animation like it’s excited
+
+After 5 NO attempts:
+Text appears under YES:
+
+“This is clearly the correct option.”
+
+⸻
+
+Midway Emotional Hit (Very You)
+
+After enough NO attempts, background softens and this line fades in:
+
+“You already know the answer.
+I just wanted to make it cute.”
+
+⸻
+
+Final YES Click Moment 🌹
+
+When YES is clicked:
+	•	Explosion of hearts, roses, sparkles
+	•	Background music softly fades in (romantic, dreamy)
+	•	Card expands to full screen
+
+Text appears slowly:
+
+“Good.
+Because I was going to be sad for like…
+two whole minutes.”
+
+Pause.
+
+“Happy Valentine’s Day, Ruiii 💗”
+
+Pause.
+
+“I’m really glad it’s you.”
+
+⸻
+
+End Screen Buttons
+
+Two playful options:
+	•	“Come here 🤍” → hearts float upward
+	•	“I knew it 😌” → screen does a tiny smug bounce
+
+⸻
+
+Extra Hidden Easter Eggs (Optional but elite)
+	•	Long-press anywhere → text appears:
+“Yes was inevitable.”
+	•	Shake phone → hearts rain harder
+	•	Screenshot detection → message pops:
+“Aww you’re keeping this.”
+
+⸻
+
+Tech Requirements
+	•	Mobile-first (phones > everything)
+	•	Smooth CSS animations
+	•	Touch interactions only (no hover dependency)
+	•	Works flawlessly on WhatsApp/Instagram in-app browser
+	•	Lightweight, fast, adorable
