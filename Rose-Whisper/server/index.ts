@@ -243,3 +243,4 @@ function setupErrorHandler(app: express.Application) {
     log(`express server serving on http://${host}:${port}`);
   });
 })();
+export default app;
